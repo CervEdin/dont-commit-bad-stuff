@@ -1,5 +1,7 @@
+yes
+yes
 asd
-NO!
+NO! yes
 more yes
 asd
 yes yes
